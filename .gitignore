@@ -1,0 +1,35 @@
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.dSYM/
+*.gcda
+*.gcno
+
+# Compiled binaries
+main
+*.bin
+
+# Editor / OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+*~
+
+# CMake / Make
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake-build-*/
